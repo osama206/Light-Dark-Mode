@@ -1,7 +1,5 @@
 # Light Dark Mode Website
 
-([Light Dark Mode Demo](https://osama206.github.io/Light-Dark-Mode/))
-
 ## Description
 
 This repository contains the source code for a dynamic website featuring a light-dark mode toggle functionality. The website showcases various sections including Home, About, Projects, and Contact, with stylish navigation and buttons. Users can switch between light and dark themes with a simple toggle switch, providing a personalized browsing experience.
@@ -35,6 +33,9 @@ To Install this web application on your local machine, follow these steps:
    
 3. **Open the HTML File:**
    Launch the `index.html` file in in your preferred web browser to view the website locally.
+
+To access the Light Dark Mode Website, simply navigate to the URL provided.
+- ([Light Dark Mode](https://osama206.github.io/Light-Dark-Mode/))
 
 ## Usage
 
