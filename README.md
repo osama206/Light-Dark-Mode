@@ -34,7 +34,7 @@ To Install this web application on your local machine, follow these steps:
    ```
    
 3. **Open the HTML File:**
-   Launch the `index.html` file in a web browser to view the website locally.
+   Launch the `index.html` file in in your preferred web browser to view the website locally.
 
 ## Usage
 
