@@ -1,6 +1,6 @@
 # Light Dark Mode Website
 
-![Light Dark Mode Demo](demo.gif)
+([Light Dark Mode Demo](https://osama206.github.io/Light-Dark-Mode/))
 
 ## Description
 
