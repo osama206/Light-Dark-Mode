@@ -35,7 +35,7 @@ To Install this web application on your local machine, follow these steps:
    Launch the `index.html` file in in your preferred web browser to view the website locally.
 
 To access the Light Dark Mode Website, simply navigate to the URL provided.
-- ([Light Dark Mode](https://osama206.github.io/Light-Dark-Mode/))
+- [Light Dark Mode](https://osama206.github.io/Light-Dark-Mode/)
 
 ## Usage
 
