@@ -46,4 +46,3 @@ To Install this web application on your local machine, follow these steps:
 
 - [Font Awesome](https://fontawesome.com/) for providing free icons.
 - [Undraw](https://undraw.co/) for supplying illustrations used in the About section.
-- Special thanks to the contributors who helped improve this project.
