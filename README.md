@@ -21,21 +21,21 @@ To Install this web application on your local machine, follow these steps:
   Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/osama206/Light-Dark-Mode.git
+   git clone https://github.com/osama206/light-dark-mode.git
    ```
 
 2. **Navigate to the Directory:**
    Navigate into the cloned repository directory:
    
    ```
-   cd Light-Dark-Mode
+   cd light-dark-mode
    ```
    
 3. **Open the HTML File:**
    Launch the `index.html` file in in your preferred web browser to view the website locally.
 
 To access the Light Dark Mode Website, simply navigate to the URL provided.
-- [Light Dark Mode](https://osama206.github.io/Light-Dark-Mode/)
+- [Light Dark Mode](https://osama206.github.io/light-dark-mode/)
 
 ## Usage
 
